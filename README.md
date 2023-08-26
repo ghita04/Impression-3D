@@ -4,7 +4,8 @@
 
 ![imprimante_sla-250](https://github.com/ghita04/Impression-3D/assets/93718412/7a69c423-6063-4b17-baa4-3149b4df824c)
 
-### Cette imprimante utilisait un procédé de photopolymérisation nommé stéréolithographie. Dans ce procédé, la polymérisation de la résine se fait grâce à un laser de faible puissance. L'impression 3D permet de créer des pièces rapidement pour du prototypage un objet par exemple. Source : [Lien](https://example.com/ "titre de lien optionnel").
+### Cette imprimante utilisait un procédé de photopolymérisation nommé stéréolithographie. Dans ce procédé, la polymérisation de la résine se fait grâce à un laser de faible puissance. L'impression 3D permet de créer des pièces rapidement pour du prototypage un objet par exemple. 
+Source : [Polytechnique de Montréal](https://example.com/ "titre de lien optionnel").
 
 ## Titre 1
 ## Titre 2
