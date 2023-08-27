@@ -43,10 +43,16 @@ Source : [Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 # Les 3 types d'imprimante 3D
 
 1. Imprimante 3D de type SLA (**stereolithography apparatus**) : La stéréolithographie (SLA) est un procédé qui utilise un réservoir rempli de photopolymères liquides et qui deviennent solides à l'aide d'une lumière UV.
-   
+
+![image](https://github.com/ghita04/Impression-3D/assets/93718412/74e1b9a8-3d9a-4e20-8864-15aacac896d4)
+
 2. Imprimante 3D de type FSL (**frittage sélectif par laser**) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une constance des éléments produits en série. Elle permet la production de centaines et de milliers de pièces au cours d'un seul cycle d'impression.
-   
+
+![image](https://github.com/ghita04/Impression-3D/assets/93718412/681f9fc5-98ee-4f2a-8894-3fab580b24b5)
+
 3. Imprimante 3D de type FDM (**fused deposition modeling**) : Le procédé FDM, ou modélisation par dépôt de fil fondu, est le procédé d'impression 3D le plus utilisé au niveau des consommateurs. FDM fonctionne en extrudant des thermoplastiques, comme ABS ou PLA par une buse chauffée, ce qui fait fondre le plastique et l'applique couche par couche sur une plateforme de fabrication.
+
+![image](https://github.com/ghita04/Impression-3D/assets/93718412/b0d572c0-d101-4977-9f1f-c53463b76e3f)
 
 Sources : 
 
@@ -55,6 +61,8 @@ Sources :
 - [3DGence](https://3dgence.com/fr/services-3d/3d-impression-fsl/#:~:text=La%20technologie%20de%20frittage%20au,un%20seul%20cycle%20d'impression.)
 
 - [FormLabs](https://formlabs.com/)
+
+Source images : [Universalis](https://www.universalis.fr/encyclopedie/impression-3d/2-historique-de-l-impression-3d/#:~:text=L'impression%203D%20est%20apparue,ont%20%C3%A9t%C3%A9%20mises%20sur%20le)
 
 # Son rôle dans le cinéma
 
