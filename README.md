@@ -11,7 +11,7 @@ Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-of
 
 À la surprise de plusieurs, l'impression 3D est principalement utilisée pour créer des effets spéciaux pour les films que l'on connait de nos jours. Ce n'est que récemment que les réalisateurs ont repoussé les méthodes compliqués et coûteuses qu'ils utilisaient avant pour laisser place presque entièrement à l'impression 3D. Cette nouvelle technologie offre et ouvre des portes aux cinéastes ce qui leur donne la possibilité de créer rapidement, efficacement et pour peu cher des modèles complexes et détaillés. L’impression 3D ouvre un monde de possibilités aux cinéastes pour créer des effets spéciaux à couper le souffle pour leurs films. D'ailleurs, cette technologie a été utilisée pour divers films très connus tels que ceux-ci : 
 
-- La saga Thor de Marvel
+- La saga Thor de Marvel : https://youtu.be/ByToQuIJpvk
 - Les Gardiens de la Galaxie
 - Black Panther
 - Star Wars : https://youtu.be/INfoEdoA4z8
