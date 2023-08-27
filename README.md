@@ -14,7 +14,10 @@ Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-of
 - La saga Thor de Marvel
 - Les Gardiens de la Galaxie
 - Black Panther
-- ’Iron Man
+- Star Wars
+https://www.youtube.com/watch?v=INfoEdoA4z8&t=257s&ab_channel=Markforged
+
+- Iron Man
 - Avatar 2
 
 Et plus encore ! 
