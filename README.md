@@ -31,3 +31,4 @@ Et plus encore !
 # Les différentes industries qui ont recours à l'impression 3D
 
 En effet, il n'y a pas que le domaine du cinéma qui a recours à l'impression 3D. Nombreux sont ceux qui y ont accès et qui l'utilisent pour exercer leur métier. Le premier étant l'aérospatial (explication à mettre ici). Le second est le secteur de l'automobile (idem). Enfin, la robotique est également un secteur qui utilise l'impression 3D, car (idem). 
+[Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing).
