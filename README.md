@@ -15,7 +15,8 @@ Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-of
 - Les Gardiens de la Galaxie
 - Black Panther
 - Star Wars
-https://www.youtube.com/watch?v=INfoEdoA4z8&t=257s&ab_channel=Markforged
+[![IMAGE ALT TEXT HERE](![image](https://github.com/ghita04/Impression-3D/assets/93718412/23bd49c2-fb10-4d06-b270-e440dd5bab41)
+)](https://www.youtube.com/watch?v=INfoEdoA4z8&t=257s&ab_channel=Markforged)
 
 - Iron Man
 - Avatar 2
