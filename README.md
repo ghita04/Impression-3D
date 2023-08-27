@@ -12,7 +12,7 @@ Avant toute chose, il faudrait savoir à quelle année a été inventé l'impres
 
 Cette imprimante utilisait un procédé de photopolymérisation nommé stéréolithographie. Dans ce procédé, la polymérisation de la résine se fait grâce à un laser de faible puissance. L'impression 3D permet de créer des pièces rapidement pour du prototypage un objet par exemple. 
 
-Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-offertes/impression-3d-sla/#:~:text=Une%20imprimante%20SLA%20utilise%20un,prototypage%20un%20objet%20par%20exemple.).
+Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-offertes/impression-3d-sla/#:~:text=Une%20imprimante%20SLA%20utilise%20un,prototypage%20un%20objet%20par%20exemple.)
 
 # L'historique technique de l'impression 3D après la première imprimante 3D
 
