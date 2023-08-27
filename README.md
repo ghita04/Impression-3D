@@ -35,8 +35,13 @@ En 2014 : Les brevets du SLS (Selective Laser Sintering) expirent à leur tour.
 
 En 2017 : Le brevet du SLM (Selective Laser Melting) expire également.
 
-Après cette imprimante, il y en a eu bien d'autres telles que : (à trouver)
+# Quelques exemples d'imprimantes 3D
 
+- 1
+- 2
+- 3
+- 4
+- 5
 
 # Son rôle dans le cinéma
 
