@@ -71,4 +71,4 @@ En effet, il n'y a pas que le domaine du cinéma qui a recours à l'impression 3
 - **Le secteur de l'automobile** : (idem).
 - **La robotique** : (idem)
   
-Source : [Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing).
+Source : [Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing)
