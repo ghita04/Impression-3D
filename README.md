@@ -8,7 +8,10 @@ Avant toute chose, il faudrait savoir à quelle année a été inventé l'impres
 
 ![imprimante_sla-250](https://github.com/ghita04/Impression-3D/assets/93718412/7a69c423-6063-4b17-baa4-3149b4df824c)
 
-# L'historique de l'impression 3D après la première imprimante 3D
+Cette imprimante utilisait un procédé de photopolymérisation nommé stéréolithographie. Dans ce procédé, la polymérisation de la résine se fait grâce à un laser de faible puissance. L'impression 3D permet de créer des pièces rapidement pour du prototypage un objet par exemple. 
+Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-offertes/impression-3d-sla/#:~:text=Une%20imprimante%20SLA%20utilise%20un,prototypage%20un%20objet%20par%20exemple.).
+
+# L'historique *technique* de l'impression 3D après la première imprimante 3D
 
 Après avoir inventé la SLA-250, les recherches se sont poursuivit pendant plusieurs années afin de breveter les différentes technologies qui étaient découvertes :
 
@@ -31,10 +34,6 @@ En 2009 : Les brevets FDM (Fused Deposition Modelling) expirent ce qui ouvre la 
 En 2014 : Les brevets du SLS (Selective Laser Sintering) expirent à leur tour.
 
 En 2017 : Le brevet du SLM (Selective Laser Melting) expire également.
-
-
-Cette imprimante utilisait un procédé de photopolymérisation nommé stéréolithographie. Dans ce procédé, la polymérisation de la résine se fait grâce à un laser de faible puissance. L'impression 3D permet de créer des pièces rapidement pour du prototypage un objet par exemple. 
-Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-offertes/impression-3d-sla/#:~:text=Une%20imprimante%20SLA%20utilise%20un,prototypage%20un%20objet%20par%20exemple.).
 
 Après cette imprimante, il y en a eu bien d'autres telles que : (à trouver)
 
