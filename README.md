@@ -60,6 +60,8 @@ Source : [Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D).
 
 Et plus encore ! 
 
+Source : [3DNatives](https://www.3dnatives.com/impression-3d-cinema-24082016/#!)
+
   
 # Les différentes industries qui ont recours à l'impression 3D
 
