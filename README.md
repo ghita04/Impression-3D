@@ -2,6 +2,8 @@
 
 Une imprimante 3D permet d'offrir la possibilité de modéliser sur son ordinateur n'importe quoi : une tasse, un crayon, une maquette, tout ce que vous voulez ! Les tailles des objets dépendent évidemment de la taille et de la capacité de l'imprimante 3D qui est à votre disposition. L'imprimante 3D permet de transformer le 2D en 3D avec du relief. 
 
+Source : [Boulanger](https://www.boulanger.com/info/animation/bcbu/micro-multimedia/imprimante-3d/avantages-et-limites#:~:text=Avec%20l'imprimante%203D%2C%20chaque,permettant%20de%20vaincre%20l'obsolescence.)
+
 # La première imprimante 3D
 
 Avant toute chose, il faudrait savoir à quelle année a été inventé l'impression 3D, n'est-ce pas ? Les premiers essais liés à l'impression 3D pour tenter de créer des objets solides avec des photopolymères ont été fait aux États-unis à la fin des années 1960 au Battelle Memorial Institute. Malheureusement, ces tests n'ont pas été très concluants et ce n'est qu'en 1980, au Japon, qu'Hideo Kodama a réussi à avoir des essais prometteurs. Quelques années plus tard, en 1988, la toute première imprimante 3D commerciale, la SLA-250, a vu le jour grâce à la compagnie 3D Systems qui était considérée comme étant l'une des compagnies géantes de la fabrication d’imprimantes 3D à l'époque. Voilà une petite photo de la SLA-250 :
@@ -36,15 +38,23 @@ Après avoir inventé la SLA-250, les recherches se sont poursuivit pendant plus
 
 **En 2017** : Le brevet du SLM (Selective Laser Melting) expire également.
 
-Source : [Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D).
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D)
 
 # Les 3 types d'imprimante 3D
 
-1. Imprimante 3D de type SLA (**stereolithography apparatus**) : La stéréolithographie (SLA) est un procédé d'impression 3D qui utilise un réservoir rempli de photopolymères liquides, solidifiés à l'aide d'une lumière UV. Un objet peut être imprimé en 3D en étant déplacé de bas en haut afin de créer de l'espace pour les polymères non solidifiés dans le fond du réservoir.
+1. Imprimante 3D de type SLA (**stereolithography apparatus**) : La stéréolithographie (SLA) est un procédé qui utilise un réservoir rempli de photopolymères liquides et qui deviennent solides à l'aide d'une lumière UV.
    
-2. Imprimante 3D de type FSL (**frittage sélectif par laser**) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une répétabilité maximales des éléments produits en série. Elle permet la production de centaines/milliers de pièces au cours d'un seul cycle d'impression.
+2. Imprimante 3D de type FSL (**frittage sélectif par laser**) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une constance des éléments produits en série. Elle permet la production de centaines et de milliers de pièces au cours d'un seul cycle d'impression.
    
 3. Imprimante 3D de type FDM (**fused deposition modeling**) : Le procédé FDM, ou modélisation par dépôt de fil fondu, est le procédé d'impression 3D le plus utilisé au niveau des consommateurs. FDM fonctionne en extrudant des thermoplastiques, comme ABS ou PLA par une buse chauffée, ce qui fait fondre le plastique et l'applique couche par couche sur une plateforme de fabrication.
+
+Sources : 
+
+- [Sculpteo](https://www.sculpteo.com/fr/materiaux/stereolithography-sla/#:~:text=La%20st%C3%A9r%C3%A9olithographie%20(SLA)%20est%20un,dans%20le%20fond%20du%20r%C3%A9servoir.)
+
+- [3DGence](https://3dgence.com/fr/services-3d/3d-impression-fsl/#:~:text=La%20technologie%20de%20frittage%20au,un%20seul%20cycle%20d'impression.)
+
+- [FormLabs](https://formlabs.com/)
 
 # Son rôle dans le cinéma
 
