@@ -15,33 +15,35 @@ Source : [Polytechnique de Montréal](https://polyfab.polymtl.ca/technologies-of
 
 Après avoir inventé la SLA-250, les recherches se sont poursuivit pendant plusieurs années afin de breveter les différentes technologies qui étaient découvertes :
 
-En 1988 : Carl Deckard crée le procédé SLS (Selective Laser Sintering) à l'Université du Texas à Austin.
+**En 1988** : Carl Deckard crée le procédé SLS (Selective Laser Sintering) à l'Université du Texas à Austin.
 
-En 1989 : Scott Crump dépose le brevet du procédé FDM (Fused Deposition modeling) et fonde la compagnie Stratasys.
+**En 1989** : Scott Crump dépose le brevet du procédé FDM (Fused Deposition modeling) et fonde la compagnie Stratasys.
 
-En 1993 : La technologie Binder Jetting est développée par le MIT et est commercialisée par Z Corporation.
+**En 1993** : La technologie Binder Jetting est développée par le MIT et est commercialisée par Z Corporation.
 
-Également en 1993 : La création de la société Sanders Prototype.Inc, qui sera renommée Solidscape, introduisant le procédé de Material Jetting.
+**Également en 1993** : La création de la société Sanders Prototype.Inc, qui sera renommée Solidscape, introduisant le procédé de Material Jetting.
 
-En 1996 : La Fraunhofer-Gesellschaft développe le procédé SLM (Selective Laser Melting).
+**En 1996** : La Fraunhofer-Gesellschaft développe le procédé SLM (Selective Laser Melting).
 
-En 2004 : Adrian Bowyer crée le projet RepRap qui est le premier projet open source d’imprimante 3D ce qui donne naissance à la culture maker.
+**En 2004** : Adrian Bowyer crée le projet RepRap qui est le premier projet open source d’imprimante 3D ce qui donne naissance à la culture maker.
 
-En 2005 : La première imprimante couleur haute définition (entreprise Z Corporation) est inventée en utilisant la quadrichromie comme les imprimantes classiques, et des pigments liés par de la colle à une matière minérale.
+**En 2005** : La première imprimante couleur haute définition (entreprise Z Corporation) est inventée en utilisant la quadrichromie comme les imprimantes classiques, et des pigments liés par de la colle à une matière minérale.
 
-En 2009 : Les brevets FDM (Fused Deposition Modelling) expirent ce qui ouvre la voie à un fort développement de cette technologie.
+**En 2009** : Les brevets FDM (Fused Deposition Modelling) expirent ce qui ouvre la voie à un fort développement de cette technologie.
 
-En 2014 : Les brevets du SLS (Selective Laser Sintering) expirent à leur tour.
+**En 2014** : Les brevets du SLS (Selective Laser Sintering) expirent à leur tour.
 
-En 2017 : Le brevet du SLM (Selective Laser Melting) expire également.
+**En 2017** : Le brevet du SLM (Selective Laser Melting) expire également.
+
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Impression_3D).
 
 # Les 3 types d'imprimante 3D
 
-1. Imprimante 3D de type SLA (stereolithography apparatus) : La stéréolithographie (SLA) est un procédé d'impression 3D qui utilise un réservoir rempli de photopolymères liquides, solidifiés à l'aide d'une lumière UV. Un objet peut être imprimé en 3D en étant déplacé de bas en haut afin de créer de l'espace pour les polymères non solidifiés dans le fond du réservoir.
+1. Imprimante 3D de type SLA (**stereolithography apparatus**) : La stéréolithographie (SLA) est un procédé d'impression 3D qui utilise un réservoir rempli de photopolymères liquides, solidifiés à l'aide d'une lumière UV. Un objet peut être imprimé en 3D en étant déplacé de bas en haut afin de créer de l'espace pour les polymères non solidifiés dans le fond du réservoir.
    
-2. Imprimante 3D de type FSL (frittage sélectif par laser) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une répétabilité maximales des éléments produits en série. Elle permet la production de centaines/milliers de pièces au cours d'un seul cycle d'impression.
+2. Imprimante 3D de type FSL (**frittage sélectif par laser**) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une répétabilité maximales des éléments produits en série. Elle permet la production de centaines/milliers de pièces au cours d'un seul cycle d'impression.
    
-3. Imprimante 3D de type FDM (fused deposition modeling) : Le procédé FDM, ou modélisation par dépôt de fil fondu, est le procédé d'impression 3D le plus utilisé au niveau des consommateurs. FDM fonctionne en extrudant des thermoplastiques, comme ABS ou PLA par une buse chauffée, ce qui fait fondre le plastique et l'applique couche par couche sur une plateforme de fabrication.
+3. Imprimante 3D de type FDM (**fused deposition modeling**) : Le procédé FDM, ou modélisation par dépôt de fil fondu, est le procédé d'impression 3D le plus utilisé au niveau des consommateurs. FDM fonctionne en extrudant des thermoplastiques, comme ABS ou PLA par une buse chauffée, ce qui fait fondre le plastique et l'applique couche par couche sur une plateforme de fabrication.
 
 # Son rôle dans le cinéma
 
@@ -60,5 +62,10 @@ Et plus encore !
   
 # Les différentes industries qui ont recours à l'impression 3D
 
-En effet, il n'y a pas que le domaine du cinéma qui a recours à l'impression 3D. Nombreux sont ceux qui y ont accès et qui l'utilisent pour exercer leur métier. Le premier étant l'aérospatial (explication à mettre ici). Le second est le secteur de l'automobile (idem). Enfin, la robotique est également un secteur qui utilise l'impression 3D, car (idem). 
-[Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing).
+En effet, il n'y a pas que le domaine du cinéma qui a recours à l'impression 3D. Nombreux sont ceux qui y ont accès et qui l'utilisent pour exercer leur métier En voici quelques uns :
+
+- **L'aérospatial** : (explication à mettre ici)
+- **Le secteur de l'automobile** : (idem).
+- **La robotique** : (idem)
+  
+Source : [Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing).
