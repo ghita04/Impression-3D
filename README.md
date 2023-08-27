@@ -35,13 +35,13 @@ En 2014 : Les brevets du SLS (Selective Laser Sintering) expirent à leur tour.
 
 En 2017 : Le brevet du SLM (Selective Laser Melting) expire également.
 
-# Quelques exemples d'imprimantes 3D
+# Les 3 types d'imprimante 3D
 
-- 1
-- 2
-- 3
-- 4
-- 5
+1. Imprimante 3D de type SLA (stereolithography apparatus) : La stéréolithographie (SLA) est un procédé d'impression 3D qui utilise un réservoir rempli de photopolymères liquides, solidifiés à l'aide d'une lumière UV. Un objet peut être imprimé en 3D en étant déplacé de bas en haut afin de créer de l'espace pour les polymères non solidifiés dans le fond du réservoir.
+   
+2. Imprimante 3D de type FSL (frittage sélectif par laser) : La technologie de frittage au laser des poudres de polyamide garantit une résistance et une répétabilité maximales des éléments produits en série. Elle permet la production de centaines/milliers de pièces au cours d'un seul cycle d'impression.
+   
+3. Imprimante 3D de type FDM (fused deposition modeling) : Le procédé FDM, ou modélisation par dépôt de fil fondu, est le procédé d'impression 3D le plus utilisé au niveau des consommateurs. FDM fonctionne en extrudant des thermoplastiques, comme ABS ou PLA par une buse chauffée, ce qui fait fondre le plastique et l'applique couche par couche sur une plateforme de fabrication.
 
 # Son rôle dans le cinéma
 
