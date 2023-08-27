@@ -85,8 +85,8 @@ Source : [3DNatives](https://www.3dnatives.com/impression-3d-cinema-24082016/#!)
 
 En effet, il n'y a pas que le domaine du cinéma qui a recours à l'impression 3D. Nombreux sont ceux qui y ont accès et qui l'utilisent pour exercer leur métier En voici quelques uns :
 
-- **L'aérospatial** : (explication à mettre ici)
-- **Le secteur de l'automobile** : (idem).
-- **La robotique** : (idem)
+- **L'aérospatial** 
+- **Le secteur de l'automobile**
+- **La robotique** 
   
 Source : [Markforged](https://markforged.com/fr/resources/blog/five-industries-utilizing-3d-printing)
